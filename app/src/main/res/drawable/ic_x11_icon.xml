@@ -22,6 +22,12 @@
                 android:fillColor="#ffffffff"
                 android:pathData="M 367,15 L 296,15 205,136 240,183 367,15 367,15 Z"
                 android:strokeWidth="1.0" />
+            <text
+                android:text="WEG"
+                android:textSize="30dp"
+                android:textColor="#ff000000"
+                android:x="200dp"
+                android:y="200dp"/>
         </group>
     </group>
 </vector>
