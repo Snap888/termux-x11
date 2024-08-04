@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/blue">
+    android:background="@android:color/red">
 
     <FrameLayout
         android:id="@+id/frame"
@@ -29,7 +29,7 @@
             android:id="@+id/stub"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@android:color/blue"
+            android:background="@android:color/red"
             android:gravity="center_horizontal|center_vertical"
             android:orientation="vertical"
             android:visibility="visible">
