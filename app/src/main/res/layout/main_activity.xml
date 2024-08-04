@@ -36,8 +36,8 @@
 
             <ImageView
                 android:id="@+id/x11_image"
-                android:layout_width="130dp"
-                android:layout_height="130dp"
+                android:layout_width="1300dp"
+                android:layout_height="1300dp"
                 android:scaleType="fitCenter"
                 app:srcCompat="@drawable/ic_x11_icon"
                 android:contentDescription="X Logo"
